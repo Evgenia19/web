@@ -1,0 +1,54 @@
+html, body {
+}
+.poster {
+	max-width: 50%;
+ 	min-height: 100%;
+ 	margin: 1vw;
+}
+.textonposter {
+	margin: 4vw;
+}
+.logo {
+	font-size: 2vw;
+	font-weight: 500;
+	margin-bottom: 3vw;
+}
+.logo:first-letter {
+	color: red;
+}
+.header {
+	font-size: 4.5vw;
+	margin-bottom: 3vw;
+}
+.subtitle {
+	font-weight: 500;
+	font-size: 2.5vw;
+	margin-bottom: 4vw;
+}
+.content {
+	font-size: 1vw;
+	margin-bottom: 3vw;
+}
+.course {
+	float: left;
+	width: 55%;
+}
+li {
+	padding-top: 0.5vw;
+}
+.description {
+	float: left;
+	width: 40%;
+}
+.timetomeet {
+	margin-top: 15vw;
+	font-size: 1vw;
+	margin-bottom: 8vw;
+}
+.figur {
+	width: 100%;
+}
+.figur img {
+	max-width: 100%;
+	height: auto;
+}
